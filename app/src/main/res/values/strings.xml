@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Recycle App Home</string>
+    <string name="nav_abierto">Barra Lateral Abierta</string>
+    <string name="nav_cerrada">Barra Lateral Cerrada</string>
+    <string name="boton_texto">Ingresar</string>
+    <string name="text_texto">Bienvenidos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_mapa">Map</string>
+
+</resources>

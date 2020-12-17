@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/item1"
+            android:icon="@drawable/ic_home_24px"
+            android:title="Home"
+            android:iconTint="@color/gris"
+            app:itemTextColor="@color/gris"
+            app:itemIconTint="@color/gris"
+            />
+        <item
+            android:id="@+id/item2"
+            android:icon="@drawable/ic_label_24px"
+            android:title="Problemática de residuos sólidos"
+            android:iconTint="@color/colorPrimaryDark"
+            app:itemTextColor="@color/colorPrimaryDark"
+            app:itemIconTint="@color/colorPrimaryDark"
+            />
+        <item
+            android:id="@+id/item3"
+            android:icon="@drawable/ic_label_24px"
+            android:title="Lineamientos para la separación" />
+
+        <item
+            android:id="@+id/item4"
+            android:icon="@drawable/ic_label_24px"
+            android:title="Código de colores" />
+
+        <item
+            android:id="@+id/item5"
+            android:icon="@drawable/ic_label_24px"
+            android:title="¿Cómo ayudar desde el hogar?"
+            />
+
+
+
+        <item
+            android:id="@+id/item6"
+            android:icon="@drawable/ic_videogame_asset_24px"
+            android:title="Quiz"
+            android:actionMenuTextColor="@color/gris"
+            />
+
+
+    </group>
+
+</menu>
